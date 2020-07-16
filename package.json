@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Calvin-Huang/vue-amplitude.git"
+    "url": "git+https://github.com/kgrigorian/vue-amplitude.git"
   },
   "keywords": [
     "vue",
@@ -18,19 +18,19 @@
     "vue-amplitude",
     "javascript"
   ],
-  "author": "Calvin Huang",
+  "author": "Karen Grigorjan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Calvin-Huang/vue-amplitude/issues"
+    "url": "https://github.com/kgrigorian/vue-amplitude/issues"
   },
-  "homepage": "https://github.com/Calvin-Huang/vue-amplitude#readme",
+  "homepage": "https://github.com/kgrigorian/vue-amplitude#readme",
   "dependencies": {
-    "amplitude-js": "^4.4.0"
+    "amplitude-js": "^7.1.0"
   },
   "devDependencies": {
-    "eslint": "^5.3.0",
-    "eslint-config-airbnb-base": "13.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "rollup-plugin-terser": "^3.0.0"
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "rollup-plugin-terser": "^6.1.0"
   }
 }
