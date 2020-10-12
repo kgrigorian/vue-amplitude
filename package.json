@@ -1,6 +1,6 @@
 {
   "name": "vue-amplitude-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Amplitude module for Vue",
   "main": "dist/vue-amplitude.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/kgrigorian/vue-amplitude#readme",
   "dependencies": {
-    "amplitude-js": "^7.1.0"
+    "amplitude-js": "^7.2.2"
   },
   "devDependencies": {
     "eslint": "^7.4.0",
